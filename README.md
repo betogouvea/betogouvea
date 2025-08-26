@@ -1,8 +1,8 @@
 # Olá, eu sou o Beto Gouvea 👋
 
-🚀 **Analista e Coordenador de QA** | Automação de Testes | Cypress + TypeScript | Gherkin | Shift Left Testing  
+🚀 **Analista de QA** | Automação de Testes | Cypress + TypeScript | Gherkin | Shift Left Testing  
 
-Tenho mais de **6 anos de experiência em QA**, atuando em **testes manuais e automatizados**, integração de pipelines de testes e implementação de **cultura de qualidade em times ágeis**. Atualmente, coordeno a **estruturação da área de QA na Movtech**, promovendo **Shift Left Testing**, padronização de cenários de teste e automação inteligente.  
+Tenho mais de **5 anos de experiência em QA**, atuando em **testes manuais e automatizados**, integração de pipelines de testes e implementação de **cultura de qualidade em times ágeis**. Atualmente, coordeno a **estruturação da área de QA na Movtech**, promovendo **Shift Left Testing**, padronização de cenários de teste e automação inteligente.  
 
 ---
 
