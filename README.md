@@ -33,7 +33,7 @@ Minha abordagem combina **visão estratégica, precisão técnica e agilidade**,
 
 ## 📫 Contato
 
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/betogouvea)  
+- LinkedIn: [ttps://www.linkedin.com/in/betogouvea](https://www.linkedin.com/in/beto-gouvea/)
 - E-mail: beetoogouvea@gmail.com  
 
 ---
